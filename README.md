@@ -1,2 +1,2 @@
-# beginner-c-
+# beginner-cpp
 Introducing Beginner C++ 
